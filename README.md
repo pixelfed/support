@@ -12,7 +12,7 @@ Before interacting, please read through the [Code Of Conduct](CODE_OF_CONDUCT.md
   - ([#freenode_#pixelfed:matrix.org through Matrix](https://matrix.to/#/#freenode_#pixelfed:matrix.org))
 - #pixelfed-dev on irc.freenode.net
 
-### Fediverse
+### Social media
 - Project account: [@pixelfed@mastodon.social](https://mastodon.social/@pixelfed)
 - Dev announcements: [@pixeldev@mastodon.social](https://mastodon.social/@pixeldev)
 
